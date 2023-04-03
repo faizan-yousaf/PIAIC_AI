@@ -22,10 +22,11 @@ class Child(Parent):     #inherted from parent class
     # p1.Name = "Muhammad Faizan"
     # p1.FatherName = "Muhammad Yousaf"
 
-    # print(p1.Id)
-    # print(p1.Name)
-    # print(p1.FatherName)
-    # print(p1.eat("pizza and Burger"))
+    
+    print(p1.Id)
+    print(p1.Name)
+    print(p1.FatherName)
+    print(p1.eat("pizza and Burger"))
 
     c1.Id = 2
     c1 = Child(Parent)
