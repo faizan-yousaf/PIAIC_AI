@@ -1,0 +1,10 @@
+hello Pakistan using '+' 
+ hello Pakistan using '+' 
+ hello Pakistan using '/a+/' 
+ hello Pakistan using '/a+'/ 
+ hello Pakistan using 'a+' 
+ hello Pakistan using 'a+' 
+ Note that the cursor is at the start of the line as we have used the .seek(0) funtion
+ hello Pakistan using 'a+' 
+ Note that the cursor is at the 
+    start of the line as we have used the .seek(0) funtion
